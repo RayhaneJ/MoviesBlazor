@@ -8,13 +8,13 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlazorMoviesWebApp.Server
 build_property.RootNamespace = BlazorMoviesWebApp.Server
-build_property.ProjectDir = C:\Users\rji8\source\repos\BlazorMoviesWebApp\BlazorMoviesWebApp\Server\
+build_property.ProjectDir = C:\Users\rji8\Documents\MoviesBlazor\BlazorMoviesWebApp\Server\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\rji8\source\repos\BlazorMoviesWebApp\BlazorMoviesWebApp\Server
+build_property.MSBuildProjectDirectory = C:\Users\rji8\Documents\MoviesBlazor\BlazorMoviesWebApp\Server
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/rji8/source/repos/BlazorMoviesWebApp/BlazorMoviesWebApp/Server/Pages/Error.cshtml]
+[C:/Users/rji8/Documents/MoviesBlazor/BlazorMoviesWebApp/Server/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

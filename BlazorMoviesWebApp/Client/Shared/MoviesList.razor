@@ -1,22 +1,42 @@
 ﻿ @if (Movies == null)
 {
-    <img src="https://tenor.com/view/ben-redblock-loading-circle-gif-19361051"/>
+    @if(NullTemplate != null){
+        @NullTemplate
+    }
+    else {
+        <img src="https://tenor.com/view/ben-redblock-loading-circle-gif-19361051" />
+    }
+    
 }
 else if (Movies.Count == 0)
 {
-    <text>There are no records to show</text>
-
+    @if (EmptyTemplate != null)
+    {
+        @EmptyTemplate
+    }
+    else
+    {
+        <img src="https://tenor.com/view/ben-redblock-loading-circle-gif-19361051" />
+    }
 }
 else
 {
+    <input type="checkbox" @bind="displayButtons"/>
+
     @foreach (var movie in Movies)
     {
-        <IndividualMovie Movie="movie"/>
+        <IndividualMovie Movie="movie" DisplayButtons="displayButtons" DeleteMovie="DeleteMovie"/>
     }
 }
 
 @code {
     [Parameter] public List<Movie> Movies { get; set; }
+    [Parameter] public RenderFragment NullTemplate { get; set; }
+    [Parameter] public RenderFragment EmptyTemplate { get; set; }
+    bool displayButtons = false;
 
-  
+    private void DeleteMovie(Movie movie){
+        Movies.Remove(movie);
     }
+  
+}

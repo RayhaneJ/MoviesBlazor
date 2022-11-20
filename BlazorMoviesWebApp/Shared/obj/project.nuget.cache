@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wo8yz6NKtLRvkiFkaO+tr21dIQwZ9ONaUcIy+67VC4y/DCn4ZpWWIdYpxDPdNJCqULV647IqVyQlWUYqAJTO2g==",
+  "dgSpecHash": "DODS5LR+5HbE7T0xr+yFVjEa57w0ebljw/ccPKMeE7wt6/I+SMFAXg/evYp3Xseq6hJn2rDfXSIPp/A9JikWmw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rji8\\source\\repos\\BlazorMoviesWebApp\\BlazorMoviesWebApp\\Shared\\BlazorMoviesWebApp.Shared.csproj",
+  "projectFilePath": "C:\\Users\\rji8\\Documents\\MoviesBlazor\\BlazorMoviesWebApp\\Shared\\BlazorMoviesWebApp.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
