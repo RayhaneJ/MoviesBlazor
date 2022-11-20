@@ -1,0 +1,37 @@
+﻿@page "/"
+
+
+<div>
+    <h3>Movies</h3>
+    <MoviesList Movies=movies/>
+    <DummyTextBox placeholder="movie name" disabled="true"/>
+
+</div>
+
+@code {
+    List<Movie> movies;
+
+    protected async override Task OnInitializedAsync()
+    {
+        await Task.Delay(3000);
+
+        movies = new List<Movie>
+        {
+            new Movie()
+        {
+            Title = "SpiderMan",
+            ReleaseDate = new DateTime(2019, 7, 2)
+        },
+        new Movie()
+        {
+            Title = "SpiderMan2",
+            ReleaseDate = new DateTime(2019, 7, 2)
+        },
+        new Movie()
+        {
+            Title = "SpiderMan3",
+            ReleaseDate = new DateTime(2019, 7, 2)
+        }
+        };
+    }
+}

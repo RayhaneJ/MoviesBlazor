@@ -1,0 +1,8 @@
+﻿<div>
+    <p>Title: <b>@((MarkupString)Movie.Title)</b></p>
+    <p>Release Date: <b>@Movie.ReleaseDate.ToShortDateString()</b></p>
+</div>
+
+@code {
+    [Parameter] public Movie Movie { get; set; }
+}

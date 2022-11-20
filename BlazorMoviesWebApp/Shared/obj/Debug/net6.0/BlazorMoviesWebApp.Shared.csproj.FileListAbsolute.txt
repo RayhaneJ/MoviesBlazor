@@ -1,0 +1,12 @@
+C:\Users\rji8\source\repos\BlazorMoviesWebApp\BlazorMoviesWebApp\Shared\bin\Debug\net6.0\BlazorMoviesWebApp.Shared.deps.json
+C:\Users\rji8\source\repos\BlazorMoviesWebApp\BlazorMoviesWebApp\Shared\bin\Debug\net6.0\BlazorMoviesWebApp.Shared.dll
+C:\Users\rji8\source\repos\BlazorMoviesWebApp\BlazorMoviesWebApp\Shared\bin\Debug\net6.0\ref\BlazorMoviesWebApp.Shared.dll
+C:\Users\rji8\source\repos\BlazorMoviesWebApp\BlazorMoviesWebApp\Shared\bin\Debug\net6.0\BlazorMoviesWebApp.Shared.pdb
+C:\Users\rji8\source\repos\BlazorMoviesWebApp\BlazorMoviesWebApp\Shared\obj\Debug\net6.0\BlazorMoviesWebApp.Shared.csproj.AssemblyReference.cache
+C:\Users\rji8\source\repos\BlazorMoviesWebApp\BlazorMoviesWebApp\Shared\obj\Debug\net6.0\BlazorMoviesWebApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rji8\source\repos\BlazorMoviesWebApp\BlazorMoviesWebApp\Shared\obj\Debug\net6.0\BlazorMoviesWebApp.Shared.AssemblyInfoInputs.cache
+C:\Users\rji8\source\repos\BlazorMoviesWebApp\BlazorMoviesWebApp\Shared\obj\Debug\net6.0\BlazorMoviesWebApp.Shared.AssemblyInfo.cs
+C:\Users\rji8\source\repos\BlazorMoviesWebApp\BlazorMoviesWebApp\Shared\obj\Debug\net6.0\BlazorMoviesWebApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\rji8\source\repos\BlazorMoviesWebApp\BlazorMoviesWebApp\Shared\obj\Debug\net6.0\BlazorMoviesWebApp.Shared.dll
+C:\Users\rji8\source\repos\BlazorMoviesWebApp\BlazorMoviesWebApp\Shared\obj\Debug\net6.0\ref\BlazorMoviesWebApp.Shared.dll
+C:\Users\rji8\source\repos\BlazorMoviesWebApp\BlazorMoviesWebApp\Shared\obj\Debug\net6.0\BlazorMoviesWebApp.Shared.pdb

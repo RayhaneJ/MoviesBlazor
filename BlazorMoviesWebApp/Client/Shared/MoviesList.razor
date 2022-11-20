@@ -1,0 +1,22 @@
+﻿ @if (Movies == null)
+{
+    <img src="https://tenor.com/view/ben-redblock-loading-circle-gif-19361051"/>
+}
+else if (Movies.Count == 0)
+{
+    <text>There are no records to show</text>
+
+}
+else
+{
+    @foreach (var movie in Movies)
+    {
+        <IndividualMovie Movie="movie"/>
+    }
+}
+
+@code {
+    [Parameter] public List<Movie> Movies { get; set; }
+
+  
+    }
